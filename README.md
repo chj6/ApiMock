@@ -1,4 +1,4 @@
-# CHApi
+# ApiMock
 Express+Mock+ApiDoc模拟接口
 
 ## 执行步骤
